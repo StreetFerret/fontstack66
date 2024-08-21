@@ -153,7 +153,7 @@
     "Americana-Regular": [
       {
         "file": "GothicA1-regular",
-        "ranges": ["space", "hangul"]
+        "ranges": ["hangul"]
       },
       {
         "file": "MPlusRounded1C-regular",
@@ -261,19 +261,19 @@
       },
       {
         "file": "NotoSans-regular",
-        "ranges": ["cyrillic", "greek", "latin"]
+        "ranges": ["cyrillic", "greek", "latin", "space"]
       }
     ],
     "Boundary-Label": [
       {
         "file": "NotoSans-700",
-        "ranges": ["cyrillic", "greek", "latin"]
+        "ranges": ["cyrillic", "greek", "latin", "space"]
       }
     ],
     "Americana-Bold": [
       {
         "file": "GothicA1-700",
-        "ranges": ["space", "hangul"]
+        "ranges": ["hangul"]
       },
       {
         "file": "MPlusRounded1C-700",
@@ -381,13 +381,13 @@
       },
       {
         "file": "NotoSans-700",
-        "ranges": ["cyrillic", "greek", "latin"]
+        "ranges": ["cyrillic", "greek", "latin", "space"]
       }
     ],
     "Americana-Italic": [
       {
         "file": "GothicA1-regular",
-        "ranges": ["space", "hangul"]
+        "ranges": ["hangul"]
       },
       {
         "file": "MPlusRounded1C-regular",
@@ -495,13 +495,13 @@
       },
       {
         "file": "NotoSans-italic",
-        "ranges": ["cyrillic", "greek", "latin"]
+        "ranges": ["cyrillic", "greek", "latin", "space"]
       }
     ],
     "Americana-Bold-Italic": [
       {
         "file": "GothicA1-700",
-        "ranges": ["space", "hangul"]
+        "ranges": ["hangul"]
       },
       {
         "file": "MPlusRounded1C-700",
@@ -609,7 +609,7 @@
       },
       {
         "file": "NotoSans-700italic",
-        "ranges": ["cyrillic", "greek", "latin"]
+        "ranges": ["cyrillic", "greek", "latin", "space"]
       }
     ]
   }
