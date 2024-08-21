@@ -264,6 +264,12 @@
         "ranges": ["cyrillic", "greek", "latin"]
       }
     ],
+    "Boundary-Label": [
+      {
+        "file": "NotoSans-700",
+        "ranges": ["cyrillic", "greek", "latin"]
+      }
+    ],
     "Americana-Bold": [
       {
         "file": "GothicA1-700",
