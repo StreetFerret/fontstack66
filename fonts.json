@@ -150,16 +150,6 @@
     "thai": [[3584, 3711]]
   },
   "custom-font-stacks": {
-    "Boundary-Label-1": [
-      {
-        "file": "GothicA1-regular",
-        "ranges": ["space"]
-      },
-      {
-        "file": "NotoSans-700",
-        "ranges": ["cyrillic", "greek", "latin"]
-      }
-    ],
     "Boundary-Label": [
       {
         "file": "NotoSans-700",
