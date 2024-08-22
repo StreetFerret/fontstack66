@@ -106,6 +106,7 @@ for (const stack in customFontStacks) {
           subsetRange[0],
           subsetRange[1]
         );
+        console.log(` processing ${namedRange}[${subsetRange}], size=${subsetGlyphArray.length}`);
         const fontSegment = Font.create(inputFontBuffer, {
           type: "ttf",
           subset: subsetGlyphArray,
