@@ -160,6 +160,12 @@
         "ranges": ["cyrillic", "greek", "latin"]
       }
     ],
+    "Boundary-Label-2": [
+      {
+        "file": "NotoSans-700",
+        "ranges": ["space", "cyrillic", "greek", "latin"]
+      }
+    ],
     "Americana-Regular": [
       {
         "file": "GothicA1-regular",
